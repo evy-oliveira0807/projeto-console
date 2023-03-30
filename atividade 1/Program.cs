@@ -24,9 +24,12 @@ float nota5 = float.Parse (Console.ReadLine ());
 
 float media = (nota1 + nota2 + nota3 + nota4 + nota5) / 5;
 
-Console.WriteLine($"a nota final corresponde á: 1ª nota + 2ª nota + 3ª nota + 4ª nota + 5ª nota ");
+Console.WriteLine($"a nota final corresponde ao aluno é: {media}" ) ;
 
-Console.WriteLine($"A nota do aluno {media} tem imc igual á: {5}");
+
+
+
+
 
 
 
