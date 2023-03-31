@@ -5,17 +5,18 @@
  float gasto = float.Parse (Console.ReadLine ());
 
 
- if  (gasto > salario);
+ if  (gasto > salario)
  {
     Console.WriteLine($"Orçamento estourado");
-    
  }
 
+
  else
-  
+
  {
     Console.WriteLine($"gasto dentro do orçamento");
- 
  }
+  
+
  
 
