@@ -1,0 +1,15 @@
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\bin\Debug\net7.0\projeto 4.exe
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\bin\Debug\net7.0\projeto 4.deps.json
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\bin\Debug\net7.0\projeto 4.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\bin\Debug\net7.0\projeto 4.dll
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\bin\Debug\net7.0\projeto 4.pdb
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.dll
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\refint\projeto 4.dll
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.pdb
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\projeto 4.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\projeto 4\obj\Debug\net7.0\ref\projeto 4.dll
