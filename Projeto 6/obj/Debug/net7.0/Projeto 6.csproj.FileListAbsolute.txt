@@ -1,0 +1,15 @@
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\bin\Debug\net7.0\Projeto 6.exe
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\bin\Debug\net7.0\Projeto 6.deps.json
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\bin\Debug\net7.0\Projeto 6.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\bin\Debug\net7.0\Projeto 6.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\bin\Debug\net7.0\Projeto 6.pdb
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\refint\Projeto 6.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.pdb
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\Projeto 6.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto 6\obj\Debug\net7.0\ref\Projeto 6.dll
