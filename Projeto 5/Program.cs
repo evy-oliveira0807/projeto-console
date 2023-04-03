@@ -7,13 +7,13 @@ float macasonze = 0.30f;
 if (maças >= 12)
 {
     float valor= maças * macasduzia; 
- Console.WriteLine($"{valor}");
+ Console.WriteLine($"R${valor}");
  
 }
 
 else
 {
     float valor= maças *  macasonze;
-    Console.WriteLine($"{valor}");
+    Console.WriteLine($"R${valor}");
 }
 
