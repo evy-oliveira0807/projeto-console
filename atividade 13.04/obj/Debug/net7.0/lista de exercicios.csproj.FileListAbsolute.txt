@@ -1,0 +1,30 @@
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\bin\Debug\net7.0\lista de exercicios.exe
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\bin\Debug\net7.0\lista de exercicios.deps.json
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\bin\Debug\net7.0\lista de exercicios.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\bin\Debug\net7.0\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\bin\Debug\net7.0\lista de exercicios.pdb
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\refint\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.pdb
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\lista de exercicios.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\lista de exercicios\obj\Debug\net7.0\ref\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\bin\Debug\net7.0\lista de exercicios.exe
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\bin\Debug\net7.0\lista de exercicios.deps.json
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\bin\Debug\net7.0\lista de exercicios.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\bin\Debug\net7.0\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\bin\Debug\net7.0\lista de exercicios.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\refint\lista de exercicios.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\lista de exercicios.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade 13.04\obj\Debug\net7.0\ref\lista de exercicios.dll
