@@ -12,27 +12,49 @@
 //  nascimento = 60;
 //  anoAtual = 5;
 //  idade = 0;
-// //PROCESSAMENTO
 
+
+// //PROCESSAMENTO
 //  if(false)
 //  {
 //  idade = anoAtual + nascimento;
-
 //  }
+
 // //SAIDA
 // /* idade = 120; */
 // Console.WriteLine($"A sua idade é {idade}:");
 
 
 //declaracao de variavel
-int anoAtual, nascimento, idade;
+int anoAtual, anoNascimento, idade;
 
 //inicializacao de uma variavel
 
 anoAtual=2023;
-nascimento= 2005;
+
 
 // processamento
+
+Console.WriteLine($"Digite seu ano de nascimento:");
+anoNascimento = int.Parse(Console.ReadLine());
+
+idade = anoAtual - anoNascimento;
+
+if (idade >= 16)
+{
+    Console.WriteLine($"Você tem {idade} anos, você podera votar esse ano:)");
+    
+}
+else
+{
+    Console.WriteLine($"Você tem {idade} anos, você nao podera votar esse ano :(");
+    
+}
+
+
+
+
+
 
 
 
