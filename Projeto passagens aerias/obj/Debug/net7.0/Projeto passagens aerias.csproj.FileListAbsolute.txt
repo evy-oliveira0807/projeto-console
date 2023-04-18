@@ -1,0 +1,15 @@
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\bin\Debug\net7.0\Projeto passagens aerias.exe
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\bin\Debug\net7.0\Projeto passagens aerias.deps.json
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\bin\Debug\net7.0\Projeto passagens aerias.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\bin\Debug\net7.0\Projeto passagens aerias.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\bin\Debug\net7.0\Projeto passagens aerias.pdb
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\refint\Projeto passagens aerias.dll
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.pdb
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\Projeto passagens aerias.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\Projeto passagens aerias\obj\Debug\net7.0\ref\Projeto passagens aerias.dll
