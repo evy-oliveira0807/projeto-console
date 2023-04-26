@@ -1,0 +1,15 @@
+C:\Users\53143873876\Desktop\projeto-console\celular POO\bin\Debug\net7.0\celular POO.exe
+C:\Users\53143873876\Desktop\projeto-console\celular POO\bin\Debug\net7.0\celular POO.deps.json
+C:\Users\53143873876\Desktop\projeto-console\celular POO\bin\Debug\net7.0\celular POO.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\celular POO\bin\Debug\net7.0\celular POO.dll
+C:\Users\53143873876\Desktop\projeto-console\celular POO\bin\Debug\net7.0\celular POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.dll
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\refint\celular POO.dll
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\celular POO.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\celular POO\obj\Debug\net7.0\ref\celular POO.dll
