@@ -25,12 +25,36 @@ if ( resposta == "s")
 {
      
      novoCelular.ligar = true;
-     Console.WriteLine($"Deseja fazer ligaçao?");
-     Console.ReadLine();
-
-     Console.WriteLine($"deseja mandar mensagem?");
-     Console.ReadLine();
+     Console.WriteLine($"Deseja fazer ligaçao? (s/n)");
+     string resposta2 = Console.ReadLine();
      
+
+     if (resposta2 == "s")
+     {
+        novoCelular.fazerLigacao = true;
+     }
+     else
+     {
+        novoCelular.fazerLigacao = false;
+
+        Console.WriteLine($"Nao fazer ligaçao!");
+        
+     }
+
+
+     Console.WriteLine($"deseja mandar mensagem? (s/n)");
+     string resposta3 =  Console.ReadLine();
+     
+     if (resposta3 == "s")
+     {
+        novoCelular.enviarMensagem = true;
+     }
+     else 
+     {
+         novoCelular.enviarMensagem = false;
+         Console.WriteLine($"Nao enviar mensagem!");
+         
+     }
 }
 else
 {
@@ -43,4 +67,5 @@ else
 
  Console.WriteLine($"Fim, volte sempre");
 
-  
+   
+ 
