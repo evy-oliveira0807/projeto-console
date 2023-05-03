@@ -1,0 +1,30 @@
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\bin\Debug\net7.0\atividade bolsista POO.exe
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\bin\Debug\net7.0\atividade bolsista POO.deps.json
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\bin\Debug\net7.0\atividade bolsista POO.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\bin\Debug\net7.0\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\bin\Debug\net7.0\atividade bolsista POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\refint\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\atividade bolsista POO.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade bolsista POO\obj\Debug\net7.0\ref\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\bin\Debug\net7.0\atividade bolsista POO.exe
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\bin\Debug\net7.0\atividade bolsista POO.deps.json
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\bin\Debug\net7.0\atividade bolsista POO.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\bin\Debug\net7.0\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\bin\Debug\net7.0\atividade bolsista POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\refint\atividade bolsista POO.dll
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.pdb
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\atividade bolsista POO.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\atividade_bolsista_POO\obj\Debug\net7.0\ref\atividade bolsista POO.dll
