@@ -1,0 +1,15 @@
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\bin\Debug\net7.0\exercicios de fixação.exe
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\bin\Debug\net7.0\exercicios de fixação.deps.json
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\bin\Debug\net7.0\exercicios de fixação.runtimeconfig.json
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\bin\Debug\net7.0\exercicios de fixação.dll
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\bin\Debug\net7.0\exercicios de fixação.pdb
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.csproj.AssemblyReference.cache
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.AssemblyInfoInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.AssemblyInfo.cs
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.csproj.CoreCompileInputs.cache
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.dll
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\refint\exercicios de fixação.dll
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.pdb
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\exercicios de fixação.genruntimeconfig.cache
+C:\Users\53143873876\Desktop\projeto-console\exercicios de fixação\obj\Debug\net7.0\ref\exercicios de fixação.dll
