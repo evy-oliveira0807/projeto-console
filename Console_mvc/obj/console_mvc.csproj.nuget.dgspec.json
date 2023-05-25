@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\53143873876\\Desktop\\console_mvc\\console_mvc.csproj": {}
+    "C:\\Users\\53143873876\\Desktop\\projeto-console\\Console_mvc\\console_mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\53143873876\\Desktop\\console_mvc\\console_mvc.csproj": {
+    "C:\\Users\\53143873876\\Desktop\\projeto-console\\Console_mvc\\console_mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\53143873876\\Desktop\\console_mvc\\console_mvc.csproj",
+        "projectUniqueName": "C:\\Users\\53143873876\\Desktop\\projeto-console\\Console_mvc\\console_mvc.csproj",
         "projectName": "console_mvc",
-        "projectPath": "C:\\Users\\53143873876\\Desktop\\console_mvc\\console_mvc.csproj",
+        "projectPath": "C:\\Users\\53143873876\\Desktop\\projeto-console\\Console_mvc\\console_mvc.csproj",
         "packagesPath": "C:\\Users\\53143873876\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\53143873876\\Desktop\\console_mvc\\obj\\",
+        "outputPath": "C:\\Users\\53143873876\\Desktop\\projeto-console\\Console_mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\53143873876\\AppData\\Roaming\\NuGet\\NuGet.Config",
