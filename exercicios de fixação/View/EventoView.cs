@@ -1,7 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using exercicios_de_fixação.Model;
 
 namespace exercicios_de_fixação.View

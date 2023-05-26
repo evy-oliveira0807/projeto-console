@@ -42,9 +42,9 @@ namespace exercicios_de_fixação.Model
 
                 Evento p = new Evento();
 
-                p.Nome = atributos[1];
-                p.Descricao = atributos[2];
-                p.Data = DateTime.Parse (atributos[3]);
+                p.Nome = atributos[0];
+                p.Descricao = atributos[1];
+                p.Data = DateTime.Parse(atributos[2]);
 
                 eventos.Add(p);
             }
